@@ -4,6 +4,7 @@
 
 # Tools
 iOS and MacOS
-- find all classes
-- find all methods in class
-- find all functions and return types
+- identify all classes
+- identify all methods in class
+- identify all functions and return types
+- identify all dylibs loaded
