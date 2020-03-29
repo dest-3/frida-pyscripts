@@ -1,5 +1,5 @@
 # frida-pyscripts
-- Uaing frida's javascript API with python 
+- Using frida's javascript API with python 
 - Uploading scripts for various functionalities as I create them
 
 # Tools
